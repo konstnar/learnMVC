@@ -4,7 +4,7 @@
 class Route
 {
 
-    static function start()
+    public static function start()
     {
 
         $controller_name = 'index';
